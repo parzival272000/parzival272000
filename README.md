@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width = 600/>
 </p>
 
 -----
@@ -37,6 +37,17 @@
 parzival272000/parzival272000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- # My contribution stats
+
+![svg](https://raw.githubusercontent.com/parzival272000/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+
+![svg](https://raw.githubusercontent.com/parzival272000/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
+![svg](https://raw.githubusercontent.com/parziva272000/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+
+![svg](https://raw.githubusercontent.com/parzival272000/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+
+![svg](https://raw.githubusercontent.com/parzival272000/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg) -->
 
 
 <h1 align="center">Github Stats</h1>
