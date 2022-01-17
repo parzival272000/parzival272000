@@ -13,7 +13,7 @@
 
 <p>
   
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
